@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\backend",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\services"
+  ],
+  "SelectedNode": "\\frontend\\src\\components\\DetailsForm.jsx",
+  "PreviewInSolutionExplorer": false
+}

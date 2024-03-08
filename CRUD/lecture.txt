@@ -1,0 +1,15 @@
+django-admin startproject backend
+pip install dajngorestframework 
+
+
+python manage.py makemigrations
+python manage.py migrate
+python manage.py migrate --run -syncdb
+python manage.py createsuperuser
+
+username: admin
+email: admin@gamil.com
+password: admin1
+
+pyhton manage.py runserver
+
